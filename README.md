@@ -18,11 +18,4 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 </p>
 
-<h2>My GitHub Stats</h2>
-<details>
-  <summary>Click to expand</summary>
-  <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Gha-zy001&show_icons=true&theme=radical" alt="Ahmed's GitHub Stats" />
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gha-zy001&layout=compact" alt="Ahmed's Top Languages" />
-  </p>
-</details>
+
