@@ -1,21 +1,44 @@
-<h1 align="center">Welcome! 👋</h1>
+<h1 align="center">Hi, I'm Ahmed 👋</h1>
 <p align="center">
-  <strong>Hope you're doing great!</strong> <br><br>
-  I'm Ahmed, a passionate <strong>Junior Backend Engineer</strong> focused on sharpening my skills and growing as a professional! <br><br>
-  <a href="https://www.linkedin.com/in/ahmed-ghazy-1011010y/" rel="nofollow">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn Profile" style="max-width: 100%;">
-  </a>
+  <b>Backend Developer</b> &nbsp;·&nbsp; Laravel &nbsp;·&nbsp; PHP &nbsp;·&nbsp; API Design
 </p>
 
-<h2>Technologies & Tools</h2>
 <p align="center">
-  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /> <br>
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <a href="mailto:ahmedghaz00y@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://komarev.com/ghpvc/?username=Gha-zy001&style=for-the-badge&color=blue" alt="Profile views">
 </p>
 
+---
 
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API">
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gha-zy001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gha-zy001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gha-zy001&theme=tokyonight&hide_border=true" alt="GitHub streak">
+</p>
+
+### 📫 Reach me
+
+- 📧 **ahmedghaz00y@gmail.com**
+
+<p align="center"><i>“Make it work, make it right, make it fast.”</i></p>
